@@ -7,7 +7,7 @@ We have 3 Main files
 - sentiment.py
 
 
-#### lable_data.py
+#### lablel_data.py
 This file is used to label the dataset that we use to train our model. Data was collected form the BBC news dataset. This dataset contains articles published by BBC organised into categories like, business, sport, entertainment etc.
 In this file we loop through each article and pass it to textblob. Textblob will give us the sentiment polarity for each sentence which will add up to the sentiment polarity value of the article. The article text is stored in a dictionary as the key and the label which we get from the polarity will be the value.
 This dictionary will be stored as a .pickle file using the pickle module
