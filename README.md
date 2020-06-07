@@ -1,12 +1,15 @@
 # Ensemble Learning Sentiment Analysis
 
+<br/>
+
 In this project we create an ensemble learning ML model to predict the sentiment (Positive/Negative) of a news article. 
-The dataset used was the raw text files from- http://mlg.ucd.ie/datasets/bbc.html 
+The dataset used was the raw text files from- http://mlg.ucd.ie/datasets/bbc.html <br/>
 There are 3 main files-
 - lablel_data.py
 - train.py
 - test_sentiment.py
 
+<br/>
 
 #### lablel_data.py
 This file is used to label the dataset that we use to train our model. Data was collected from the BBC news dataset. This dataset contains articles published by BBC organised into categories like, business, sport, entertainment etc.
