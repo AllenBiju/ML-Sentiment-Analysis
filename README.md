@@ -1,10 +1,9 @@
 # Ensemble Learning Sentiment Analysis
 
-In this project we create an ensemble learning ML model to predict the sentiment (Positive/Negative) of a news article.
-We have 3 Main files
-- bbc.py
+In this project we create an ensemble learning ML model to predict the sentiment (Positive/Negative) of a news article. It consists of 3 main files-
+- lablel_data.py
 - train.py
-- sentiment.py
+- test_sentiment.py
 
 
 #### lablel_data.py
